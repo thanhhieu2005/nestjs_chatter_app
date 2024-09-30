@@ -32,6 +32,14 @@
 $ pnpm install
 ```
 
+```bash
+Add Env File to Run Local Project
+Add MongoDB_URI and MongoDB_DB
+
+Using JWT_SECRET and JWT_EXPIRATION
+Using PORT=8000 (recommendation)
+```
+
 ## Running the app
 
 ```bash
